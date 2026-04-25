@@ -45,11 +45,4 @@ Check changelog:
 
 ---
 
-## ❤️ Support
-
-- ⭐ Star this repo  
-- 💬 Join Discord (add link)  
-
----
-
 > Built for performance. Made for players.
